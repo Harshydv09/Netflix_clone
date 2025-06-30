@@ -5,10 +5,10 @@ This is a responsive clone of the Netflix landing page built using only **HTML**
 ## 📸 Screenshots
 
 ### 💻 Desktop View
-![desktop-view](assets/screenshots/desktop-view.png)
+![desktop-view](assests/screenshots/desktop-view.png)
 
 ### 📱 Mobile View
-![mobile-view](assets/screenshots/mobile-view.png)
+![mobile-view](assests/screenshots/mobile-view.png)
 
 ## 🚀 Features
 - Fully responsive design (mobile, tablet, desktop)
